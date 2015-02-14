@@ -1,0 +1,23 @@
+{
+  "name": "c9.ide.mso",
+  "description": "Cloud9 Mequanta Plugin",
+  "version": "0.1.0",
+  "author": "MeQuanta <mso@mequanta.com>",
+  "contributors": [
+    {
+      "name": "alex lee",
+      "email": "lilu@mequanta.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mequanta/c9.ide.mso.git"
+  },
+  "plugins": {
+    "mso": {}
+  },
+  "categories": [
+    "mequanta"
+  ],
+  "licenses": []
+}
