@@ -1,0 +1,4 @@
+<a:application xmlns:a="http://ajax.org/2005/aml">
+    <a:bar id="winSolution1" skin="panel-bar" visible="false">
+    </a:bar>
+</a:application>
